@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-name: Tooltip
+name: Tooltip!
 eng-name: UITooltip
 status: Implemented
 category: Popovers
