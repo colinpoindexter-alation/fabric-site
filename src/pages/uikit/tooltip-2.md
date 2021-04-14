@@ -7,6 +7,7 @@ status: Implemented
 category: Popovers
 component_illustration: ""
 screenshot: ""
+styles: ""
 using_component: ""
 structure_img: ""
 structure: ""
